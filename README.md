@@ -1,6 +1,7 @@
 # BitSprint: 8-Bit Runner
 
-BitSprint is an arcade-style 2D endless runner built in Unity with retro pixel visuals, three difficulty levels, and a high-score chase loop.
+BitSprint is an arcade-style 2D 8-bit endless runner in Unity 2D using C#, with Codex and Cursor accelerating development and UnityMCP automating Unity setup and iteration.
+The game includes three difficulty levels, dynamic obstacle spawning, score and persistent high-score tracking, lose/restart conditions, and polished visuals via procedural sprites, parallax backgrounds, and HUD enhancements, with Git/GitHub used for version control and delivery.
 
 ## Demo
 
