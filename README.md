@@ -2,6 +2,9 @@
 
 BitSprint is an arcade-style 2D endless runner built in Unity with retro pixel visuals, three difficulty levels, and a high-score chase loop.
 
+## Demo
+- [Watch the gameplay demo video](./Demo/bitsprint-demo.mov)
+
 ## Gameplay
 - Survive as long as possible to maximize score.
 - Pick your mode at start:
