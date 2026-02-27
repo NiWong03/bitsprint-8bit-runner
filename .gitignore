@@ -1,0 +1,25 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+
+# macOS
+.DS_Store
+
+# Unity package manager lock
+# Keep this tracked if you want deterministic dependency resolution
+# Packages/packages-lock.json
+
+# Local nested copy
+Unity_Game/
